@@ -1,0 +1,27 @@
+body
+{
+	font-family: Georgia, Arial, Verdana, sans-serif;
+	background-color: #C0DCFC;
+	text-align: center;
+	min-height: 100%;
+	font-size: 20px;
+}
+h1
+{
+	background-color: #0C4382;
+	color: #C0DCFC;
+	font-style: oblique;
+	font-family: verdana;
+	font-size: xx-large;
+}
+footer
+{
+	position: relative;
+	font-size: large;
+}
+a
+{
+color: blue;
+text-decoration: none;
+}
+
